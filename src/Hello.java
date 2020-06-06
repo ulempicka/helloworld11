@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.print("i\nwiecej\ncommitowania");
+        System.out.println("i pushowania");
     }
 }
